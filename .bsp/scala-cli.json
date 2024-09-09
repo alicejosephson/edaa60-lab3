@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/alicejosephson/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/alicejosephson/dod/lab3b/edaa60-lab3/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/alicejosephson/dod/lab3b/edaa60-lab3/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/alicejosephson/dod/lab3b/edaa60-lab3/.scala-build/ide-envs.json",
+    "/Users/alicejosephson/dod/lab3b/edaa60-lab3"
+  ],
+  "version": "1.5.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
